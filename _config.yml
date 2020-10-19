@@ -3,3 +3,12 @@ theme: jekyll-theme-slate
 title: Lindsey Viann Parkinson
 
 description: Ecology + Data Science
+
+twitter_username: lindseyviann
+github_username: LVParkinson
+
+#Build settings
+sass: 
+  sass_dir: _sass
+  include: ['_pages']
+
