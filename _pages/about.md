@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ## About
-I am a forest eclogist turned data scientist getting involved in projects bridging plant ecology community with new technological tools. 
+I am a forest eclogist turned data scientist getting involved in projects bridging plant ecology with new technological tools. 
 
 
 

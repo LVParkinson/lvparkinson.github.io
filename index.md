@@ -1,3 +1,9 @@
+## Welcome to my site
+As you can probably tell, it is under construction. So for now, you can read about how Markdown works. No reason to take it away until I figure out how to ormat what I'mreplacing it with. 
+
+LinkedIn: [lindseyviann](https://www.linkedin.com/in/lindsey-viann)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LVParkinson/LVParkinson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
